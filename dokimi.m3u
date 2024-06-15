@@ -292,24 +292,34 @@ http://cord-cutter.net:8080/YT6bvC/100111/160097
 #EXTINF:-1 , cord-cutter 146
 http://cord-cutter.net:8080/YT6bvC/100111/160098
 #EXTINF:0,Atrain123 1
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761104
 #EXTINF:0,Atrain123 2
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761105
 #EXTINF:0,Atrain123 3
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761106
 #EXTINF:0,Atrain123 4
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761107
 #EXTINF:0,Atrain123 5
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761108
 #EXTINF:0,Atrain123 6
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761109
 #EXTINF:0,Atrain123 7
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761110
 #EXTINF:0,Atrain123 8
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761111
 #EXTINF:0,Atrain123 9
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761112
 #EXTINF:0,Atrain123 10
+#EXTVLCOPT:network-caching=1000
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761113
 #EXTINF:0,Atrain123 11
 http://likea8bitboss.xyz/Atrain123/HkU9nsE1l6/761114
@@ -545,26 +555,37 @@ https://live.iptvxxx.net/sunbeachtv.m3u8
 #EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us",Playboy TV Latin America (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:0,z88.ubtvfans 1
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
 #EXTINF:0,z88.ubtvfans 2
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
 #EXTINF:0,z88.ubtvfans 3
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
 #EXTINF:0,z88.ubtvfans 4
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
 #EXTINF:0,z88.ubtvfans 5
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
 #EXTINF:0,z88.ubtvfans 6
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 #EXTINF:0,z88.ubtvfans 7
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 #EXTINF:0,z88.ubtvfans 8
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
 #EXTINF:0,z88.ubtvfans 9
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
 #EXTINF:0,z88.ubtvfans 10
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
 #EXTINF:0,z88.ubtvfans 11
+#EXTVLCOPT:network-caching=1000
 http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
 #EXTINF:0,kazmazpaz 1
 #EXTVLCOPT:network-caching=1000
@@ -576,18 +597,25 @@ http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6165/manifest.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6166/manifest.m3u8
 #EXTINF:0,kazmazpaz 4
+#EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6167/manifest.m3u8
 #EXTINF:0,kazmazpaz 5
+#EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6168/manifest.m3u8
 #EXTINF:0,kazmazpaz 6
+#EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6169/manifest.m3u8
 #EXTINF:0,kazmazpaz 7
+#EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6170/manifest.m3u8
 #EXTINF:0,kazmazpaz 8
+#EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6171/manifest.m3u8
 #EXTINF:0,kazmazpaz 9
+#EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6172/manifest.m3u8
 #EXTINF:0,kazmazpaz 10
+#EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6173/manifest.m3u8
 #EXTINF:0,kazmazpaz 11
 http://88b9da48.kazmazpaz.ru/iptv/3QPZNG8XM26GUV/6174/manifest.m3u8
@@ -944,42 +972,61 @@ http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
 #EXTINF:0,mono 16
 http://168.119.255.170/716/mono.m3u8?token=M4f082ab4c
 #EXTINF:0,Ismaelgx 1
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/750
 #EXTINF:0,Ismaelgx 2
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1035
 #EXTINF:0,Ismaelgx 3
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1036
 #EXTINF:0,Ismaelgx 4
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/276
 #EXTINF:0,Ismaelgx 5
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1037
 #EXTINF:0,Ismaelgx 6
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/751
 #EXTINF:0,Ismaelgx 7
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/479
 #EXTINF:0,Ismaelgx 8
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/468
 #EXTINF:0,Ismaelgx 9
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1297
 #EXTINF:0,Ismaelgx 10
+#EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1298
 #EXTINF:0,gustvplay.com 1
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/80743
 #EXTINF:0,gustvplay.com 2
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1320
 #EXTINF:0,gustvplay.com 3
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1327
 #EXTINF:0,gustvplay.com 4
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1319
 #EXTINF:0,gustvplay.com 5
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1330
 #EXTINF:0,gustvplay.com 6
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1311
 #EXTINF:0,gustvplay.com 7
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1352
 #EXTINF:0,gustvplay.com 8
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1317
 #EXTINF:0,gustvplay.com 9
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1324
 #EXTINF:0,gustvplay.com 10
+#EXTVLCOPT:network-caching=1000
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1326 
