@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us",Playboy TV Latin America (1080p)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:0 group-title="STREAMSY",streamsy 1
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
 #EXTINF:0 group-title="STREAMSY",streamsy 2
@@ -73,6 +71,8 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/468
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1297
 #EXTINF:0 group-title="ISMAELGX",Ismaelgx 10
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1298
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:0 group-title="WOLF",Wolf 1
 http://kstv.us/Wolf/8338187957/47168
 #EXTINF:0 group-title="WOLF",Wolf 2
