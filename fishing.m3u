@@ -5,4 +5,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83386?Billybob.es.una.estrell!
 #EXTINF:-1,ocean tv
 http://146.158.0.56:80/OceanTV/index.m3u8
-
+#EXTINF:-1
+http://206.212.244.71:8080/live/4wVQA7/625159/215394.m3u8 
+#EXTINF:-1
+http://206.212.244.71:8080/live/4wVQA7/625159/215378.m3u8
+#EXTINF:-1
+http://206.212.244.71:8080/live/4wVQA7/625159/215359.m3u8
