@@ -12,16 +12,14 @@ http://206.212.244.71:8080/live/4wVQA7/625159/215378.m3u8
 #EXTINF:-1
 http://206.212.244.71:8080/live/4wVQA7/625159/215359.m3u8
 #EXTINF:-1 group-title="WAREHOUSE",kitchen
-https://gcdntx.warehouse-x.io/whx_nvenc2/767497535005844209036928/nvenc2/767497535005844209036928_720p/chunks.m3u8
+https://node4.voyeurhouse.com/vh_prod/smil:287.smil/playlist.m3u8
 #EXTINF:-1 group-title="WAREHOUSE",PING PONG
-https://gcdn.warehouse-x.io/Adaptive/streams/378711716398212766785008.m3u8?Ping Pong
+https://node3.voyeurhouse.com/vh_prod/smil:581.smil/playlist.m3u8
 #EXTINF:-1 group-title="WAREHOUSE", Vivians
-https://gcdn.warehouse-x.io/Bedrooms/streams/XkldFAt3czFyt7nD1691149900427.m3u8?vivians
+https://node3.voyeurhouse.com/vh_prod/smil:545.smil/playlist.m3u8
 #EXTINF:-1 group-title="WAREHOUSE",Diamond
-https://gcdn.warehouse-x.io/Adaptive/streams/135003094702782941375198.m3u8?diamond suite
+https://node3.voyeurhouse.com/vh_prod/smil:219.smil/playlist.m3u8
 #EXTINF:-1 group-title="WAREHOUSE",Cladiator
-https://gcdn.warehouse-x.io/Adaptive/streams/DG8JzQ1s9N88VJU21723196669811.m3u8?Cladiator
+https://node4.voyeurhouse.com/vh_prod/smil:279.smil/playlist.m3u8
 #EXTINF:-1 group-title="WAREHOUSE",Gaming
-https://gcdn.warehouse-x.io/Adaptive/streams/x6MLtz9oOkq81693918146281.m3u8?Gaming
-#EXTINF:-1 group-title="WAREHOUSE",Bathroom
-https://gcdntx.warehouse-x.io/nvenc3/571241513220625332597959/chunks.m3u8?bathroom
+https://node3.voyeurhouse.com/vh_prod/smil:468.smil/playlist.m3u8
