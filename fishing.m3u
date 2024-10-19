@@ -11,15 +11,25 @@ http://206.212.244.71:8080/live/4wVQA7/625159/215394.m3u8
 http://206.212.244.71:8080/live/4wVQA7/625159/215378.m3u8
 #EXTINF:-1
 http://206.212.244.71:8080/live/4wVQA7/625159/215359.m3u8
-#EXTINF:-1 group-title="WAREHOUSE",kitchen
+#EXTINF:-1 group-title="voyeurhouse",1
 https://node4.voyeurhouse.com/vh_prod/smil:287.smil/playlist.m3u8
-#EXTINF:-1 group-title="WAREHOUSE",PING PONG
+#EXTINF:-1 group-title="voyeurhouse",2
 https://node3.voyeurhouse.com/vh_prod/smil:581.smil/playlist.m3u8
-#EXTINF:-1 group-title="WAREHOUSE", Vivians
+#EXTINF:-1 group-title="voyeurhouse",3
 https://node3.voyeurhouse.com/vh_prod/smil:545.smil/playlist.m3u8
-#EXTINF:-1 group-title="WAREHOUSE",Diamond
+#EXTINF:-1 group-title="voyeurhouse",4
 https://node3.voyeurhouse.com/vh_prod/smil:219.smil/playlist.m3u8
-#EXTINF:-1 group-title="WAREHOUSE",Cladiator
+#EXTINF:-1 group-title="voyeurhouse",5
 https://node4.voyeurhouse.com/vh_prod/smil:279.smil/playlist.m3u8
-#EXTINF:-1 group-title="WAREHOUSE",Gaming
+#EXTINF:-1 group-title="voyeurhouse",6
 https://node3.voyeurhouse.com/vh_prod/smil:468.smil/playlist.m3u8
+#EXTINF:-1 group-title="voyeurhouse",7
+https://hls.vsmvideo.com/manifest.m3u8?key=nil&provider=cdn5&model_id=1166199
+#EXTINF:-1 group-title="voyeurhouse",8
+https://hls.vsmvideo.com/manifest.m3u8?key=nil&provider=cdn5&model_id=996085
+#EXTINF:-1 group-title="voyeurhouse",9
+https://hls.vsmvideo.com/manifest.m3u8?key=nil&provider=cdn5&model_id=1004989
+#EXTINF:-1 group-title="voyeurhouse",10
+https://hls.vsmvideo.com/manifest.m3u8?key=nil&provider=cdn5&model_id=995526
+#EXTINF:-1 group-title="voyeurhouse",11
+https://hls.vsmvideo.com/manifest.m3u8?key=nil&provider=cdn5&model_id=397293
