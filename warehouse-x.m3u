@@ -1,65 +1,77 @@
 #EXTM3U
-https://gcdntx.warehouse-x.io/whx_nvenc2/767497535005844209036928/nvenc2/767497535005844209036928_720p/chunks.m3u8?kitchen
+#EXTINF:-1 group-title="WAREHOUSE", Kitchen
+https://gcdntx.warehouse-x.io/whx_nvenc2/767497535005844209036928/nvenc2/767497535005844209036928_720p/chunks.m3u8
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/138088475456018096016456.m3u8?kitchen far
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/866563634066106598538423.m3u8?kitchen 2
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/619900595338695687437605.m3u8?kitchen table 1
+#EXTINF#EXTINF:-1 group-title="WAREHOUSE",
 https://gcdn.warehouse-x.io/Adaptive/streams/714406745816166011238313.m3u8?kitchen table 2
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/029925115733496295192711.m3u8?pool
+#EXTINF:-1 group-title="WAREHOUSE",
 https://gcdn.warehouse-x.io/Adaptive/streams/378711716398212766785008.m3u8?Ping Pong
+#EXTINF:-1 group-title="WAREHOUSE",
 https://gcdn.warehouse-x.io/Adaptive/streams/x6MLtz9oOkq81693918146281.m3u8?Gaming
+#EXTINF:-1 group-title="WAREHOUSE",
 https://gcdn.warehouse-x.io/Bedrooms/streams/XkldFAt3czFyt7nD1691149900427.m3u8?vivians
+#EXTINF:-1 group-title="WAREHOUSE",
 https://gcdn.warehouse-x.io/Adaptive/streams/135003094702782941375198.m3u8?diamond suite
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/158869448838425338989899.m3u8?diamond 2
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/501266505077439971221208.m3u8?jacuzi back
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/649815687533680607091043.m3u8?jacuzi front
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/774855334761779108164400.m3u8?jacuzi top
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/244226350654861131310763.m3u8?jacuzi top left
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/DG8JzQ1s9N88VJU21723196669811.m3u8?Cladiator
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/nF9yVlTMlYh96AAo1723196756621.m3u8?Cladiator back
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/629345907390301745168708.m3u8?Cladiator far
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/j6JOUprtpMTCUIEW1723196515712.m3u8?Cladiator top
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/110192442451426744057956.m3u8?gym
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/423553443377441842852679.m3u8?ntouz
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdntx.warehouse-x.io/nvenc3/571241513220625332597959/chunks.m3u8?bathroom
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/014646726014455486056265.m3u8?bathroom right
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/962130850575072132800201.m3u8?bedroom far
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/100061635424108542832968.m3u8?bedroom right
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/6hgvKWTDui3w1672750716913.m3u8?bedroom left
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/791582865828502746257727.m3u8?backstage1
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/0EAnRmfTSvnx1705187634847.m3u8?backstage chairs
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/Tv2VRsvRE7hXDUps1691150145560.m3u8?backstage far
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/561WSNYNaFd5RyWM1691150162166.m3u8?backstage far 2
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/HSmlBsXFjTvWQkj41691148478023.m3u8?backstage far 3
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/1ZmzSd6ZaxoAQzo81691150173363.m3u8?backstage in
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/690087088212775732049553.m3u8?socker
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/696082385143063185215132.m3u8?socker 2
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/336453928386534591553365.m3u8?solarium
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/537076287965992641447978.m3u8?chess
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/156376832970493219077169.m3u8?chess 2
+#EXTINF:-1 group-title="WAREHOUSE", 
 https://gcdn.warehouse-x.io/Adaptive/streams/269006735908541834555991.m3u8?yard
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://gcdn.warehouse-x.io/Adaptive/streams/8EFC1XNQqGGW1287430615587720.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/717372322551974719303788.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/o2AJJgC5c5oA1681219695139.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/449443917747917852683226.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/MsU1NIRk77tSCS9I1691149644880.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/717372322551974719303788.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/fjmgx1T9PF0fYr1h1691150055528.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/Kqb8gwnXNczjdyVo1691149923923.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/OBTejb1RYxjINLvr1691150076682.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/2uOaAMHsU1NDVEIe1692013714964.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/tLvfdyINBmMqGhiv1691149697855.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/wfsayyGdhsiIFUcb1691149758522.m3u8
-https://gcdn.warehouse-x.io/Adaptive/streams/hKG0sDiS8jXewg4I1691150043786.m3u8
