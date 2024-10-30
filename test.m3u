@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="chat",1 
-https://live-edge-us1.bcvcdn.com/hls/stream_APRILHILL/playlist.m3u8
+https://stackvaults-hls.xcdnpro.com/c4d9f2ae-c934-4570-9c13-9e114a65d10f/hls/as+1cbdcf81-6653-4318-9083-f6ec78fde1da/index.m3u8
 #EXTINF:-1 group-title="chat",2 
 https://live-edge73.bcvcdn.com/hls/stream_ANGELonDUTY/playlist.m3u8
 #EXTINF:-1 group-title="chat",3 
@@ -10,17 +10,17 @@ https://live-edge2.bcvcdn.com/hls/stream_poshno1/playlist.m3u8
 #EXTINF:-1 group-title="chat",5
 https://live-edge33.bcvcdn.com/hls/stream_Glamouros/playlist.m3u8
 #EXTINF:-1 group-title="chat",6
-https://live-edge38.bcvcdn.com/hls/stream_roses-dream/playlist.m3u8
-#EXTINF:-1 group-title="chat",7
-
-#EXTINF:-1 group-title="chat",8
-
-#EXTINF:-1 group-title="chat",9
-
-#EXTINF:-1 group-title="chat",10
-
-#EXTINF:-1 group-title="chat",11
-
+https://live-edge46.bcvcdn.com/hls/stream_roses-dream/playlist.m3u8
+#EXTINF:-1 group-title="chat",7 Kate_Moss
+https://cam4-hls.xcdnpro.com/317/cam4-origin-live/Kate_Moss-317-41acba07-4133-4732-9891-d385e28fab28_aac/playlist.m3u8
+#EXTINF:-1 group-title="chat",8 
+https://stackvaults-hls.xcdnpro.com/c817e3f3-c08c-4eaa-a69c-da31c8b8c948/hls/as+6b197517-5fe4-44d7-80f0-351b7fe8dc1f/index.m3u8
+#EXTINF:-1 group-title="chat",9 fredericahellum
+https://stackvaults-hls.xcdnpro.com/f3086a54-368e-43f3-a581-982777214cd2/hls/as+2fa16559-dfd3-4824-a275-47ef464ef6c9/index.m3u8
+#EXTINF:-1 group-title="chat",10 diabolica89
+https://cam4-hls.xcdnpro.com/300/cam4-origin-live/diabolica89-300-b6d8fc96-c3e4-4c70-896d-dee3c95fc0cd_aac/playlist.m3u8
+#EXTINF:-1 group-title="chat",11 
+https://stackvaults-hls.xcdnpro.com/7f3f16b5-dd8c-4f68-bc06-762560b9ecec/hls/as+be6b0d67-19a2-4a96-b495-f7c60d0a449c/index.m3u8
 #EXTINF:-1 group-title="chat",12 Vassiilisa!
 https://b-hls-17.doppiocdn.com/hls/60830709/60830709_1080p.m3u8
 #EXTINF:-1 group-title="chat",13 mazekyn!
