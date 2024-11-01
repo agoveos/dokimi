@@ -66,7 +66,9 @@ https://live-edge33.bcvcdn.com/hls/stream_Glamouros/playlist.m3u8
 #EXTINF:-1 group-title="chat",33 --TwistyLemonSizzle--
 https://b-hls-08.doppiocdn.com/hls/64861501/64861501_1080p.m3u8
 #EXTINF:-1 group-title="chat",34 kaydenwithpaul
-https://b-hls-01.doppiocdn.com/hls/62336272/62336272_1080p60.m3u8?
+https://b-hls-01.doppiocdn.com/hls/62336272/62336272_1080p60.m3u8
+#EXTINF:-1 group-title="chat",35 xmayka
+https://b-hls-10.doppiocdn.com/hls/3952510/3952510_1080p.m3u8
 
 
 
