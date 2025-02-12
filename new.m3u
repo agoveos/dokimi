@@ -12,15 +12,15 @@ https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/d0259c4c-03d8-44f5-817a-a4
 
 
 
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/circle logo 3.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/circle logo 3.png" ,Russian Night
 http://
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/circle logo 3.png" group-title="FOR ADULTS",XXX: Russian Night
 http://
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/circle logo 3.png" group-title="FOR ADULTS",XXX: Russian Night
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/circle%20logo%203.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/circle%20logo%203.png" ,XXX: Russian Night
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total logo.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total logo.png" ,XXX: Russian Night
 http://
 
 
