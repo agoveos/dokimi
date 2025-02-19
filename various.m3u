@@ -1,15 +1,20 @@
 #EXTM3U
-
+#EXTINF:-1,US: WORLD FISHING NETWORK
+http://jmrk.xyz:3050/ariv17@icloud.com/TJ6XPTFq4a/418213
+#EXTINF:-1,SP | F WORLD FISHING NETWORK
+http://xdplayer.tv:8080/play/QuSkVYcTi4OUwL0883GKL073J5Azstp596T4LlViHazOIHWQgJI-nqh7S2oLxFg3
 #EXTINF:-1, ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WORLD FISHING NETWORK
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/da9f9e67-ceec-404f-b28e-b64528ce6aa8.ts
 #EXTINF:-1, WORLD FISHING NETWORK
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/d0259c4c-03d8-44f5-817a-a481d48fbfae.ts
-#EXTINF:-1 tvg-id="" tvg-name="JUST FISHING HD" group-title="DE ✨ DOKU ⁕ 24/7",JUST FISHING HD
-http://worldzero365.xyz:8080/play/live.php?mac=00:1A:79:78:70:9E&stream=810530&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING AND HUNTING" group-title="RO ✨ DOKU",RO: FISHING AND HUNTING
-http://worldzero365.xyz:8080/play/live.php?mac=00:1A:79:78:70:9E&stream=792737&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="JUST FISHING FHD" group-title="DE ✨ DOKU ⁕ 24/7",JUST FISHING FHD
-http://worldzero365.xyz:8080/play/live.php?mac=00:1A:79:78:70:9E&stream=810531&extension=ts
+#EXTINF:-1 ,|USA| WORLD FISHING HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=117154&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1 ,CZ| FISHING AND HUNTING
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520645&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1 ,|DE| JUSTFISHING HD 
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=521711&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1 ,RO| FISHING & HUNTING
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=521219&extension=ts&play_token=LLNBnsvgiw
 
 
 
@@ -18,20 +23,16 @@ http://worldzero365.xyz:8080/play/live.php?mac=00:1A:79:78:70:9E&stream=810531&e
 
 
 
-
-
-
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-
 
 
 
@@ -71,19 +72,16 @@ http://pfsv.io:80/DD55xmNdy2/blendediptv.me/259874.ts
 
 
 
-
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="XXX: Russian Night" tvg-logo="https://www.lyngsat.com/logo/tv/rr/russkaya-noch-ru.png" group-title="FOR ADULTS",XXX: Russian Night
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
 http://
-
-
 
 
 
@@ -550,3 +548,373 @@ http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E2:23&stream=253340&e
 http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E2:23&stream=253327&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yiRWzWE.png" group-title="✦ ΠΑΙΔΙΑ KIDS ✦",NİCKELODEON SD
 http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E2:23&stream=411649&extension=ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, GR| EPT 1
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520930&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EPT 2 GR| EPT 2
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520929&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EPT 3 GR| EPT 3
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520928&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EPT WORLD GR| EPT WORLD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520927&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EPT NEWS HD GR| EPT NEWS HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520926&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, RIK 1 GR| RIK 1
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520925&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, RIK GR2 GR| RIK GR2
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520924&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, RIK GRSAT GR| RIK GRSAT
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520923&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, BEST REMIXES HD GR| BEST REMIXES HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520922&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, BEST TV GR| BEST TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520921&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EPILOGES TV GR| EPILOGES TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520920&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, STAR HD GR| STAR HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520919&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ANTENNA GR| ANTENNA
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520918&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, VILLAGE CINEMA HD GR| VILLAGE CINEMA HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520917&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, OTE MAD GR| OTE MAD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520916&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, OTE GRHISTORY GRFHD GR| OTE GRHISTORY GRFHD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520915&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, BOOMERANG HD GR| BOOMERANG HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520914&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, XALASTRA TV HD GR| XALASTRA TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520913&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CHANNEL 9 HD GR| CHANNEL 9 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520912&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, FOX LIFE 4K GR| FOX LIFE 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520911&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, FOX HD GR| FOX HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520910&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, BABY TV HD GR| BABY TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520909&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, PLAY TV HD GR| PLAY TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520908&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, MAD HIts&play_token=LLNBnsvgiw HD GR| MAD HIts&play_token=LLNBnsvgiw HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520907&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, PANIK HD GR| PANIK HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520906&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CANNALI MUSIC HD GR| CANNALI MUSIC HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520905&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, TV FILIPOLI HD GR| TV FILIPOLI HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520904&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, AXELOOS TV HD GR| AXELOOS TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520903&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, THRAKI NET HD GR| THRAKI NET HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520902&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EOE HD GR| EOE HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520901&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CORFU CHANNEL HD GR| CORFU CHANNEL HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520900&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, HIGH TV HD GR| HIGH TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520899&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, MAD GREEK GR| MAD GREEK
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520898&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CRETE TV GR| CRETE TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520897&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, DIKTYO TV GR| DIKTYO TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520896&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ART TV GR| ART TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520895&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ACHELOOS TV GR| ACHELOOS TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520894&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, SMILE TV GR| SMILE TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520893&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA PREMIERE 4 HD GR| NOVA PREMIERE 4 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520892&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, DISNEY JUNIOR HD GR| DISNEY JUNIOR HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520891&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NICKELODEON HD GR| NICKELODEON HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520890&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, RISE GRTV GR| RISE GRTV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520889&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NET TV TORONTO GR| NET TV TORONTO
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520888&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NET GR| NET
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520887&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ACTION 24 GR| ACTION 24
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520886&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, TV CRETA GR| TV CRETA
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520885&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NEA TV GR| NEA TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520884&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, \u0392\u039f\u03a5\u039b\u0397 GR| \u0392\u039f\u03a5\u039b\u0397
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520883&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, VOULI GRTV GR| VOULI GRTV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520882&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, VOULI GR| VOULI
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520881&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, VOULI TILEORASI GR| VOULI TILEORASI
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520880&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NRG TV HD GR| NRG TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520879&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, INSIGHT TV HD GR| INSIGHT TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520878&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EURONEWS HD GR| EURONEWS HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520877&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, PLUS CY HD GR| PLUS CY HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520876&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ATTICA TV GR| ATTICA TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520875&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, IONIAN TV GR| IONIAN TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520874&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, TV 100 GR| TV 100
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520873&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, 4E GR| 4E
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520872&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ANT1 HD GR| ANT1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520871&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, MAKEDONIA TV HD GR| MAKEDONIA TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520870&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, OPEN GR| OPEN
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520869&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, SKAI TILEORASI HD GR| SKAI TILEORASI HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520868&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ALPHA TV HD GR| ALPHA TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520867&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, KRITI TV GR| KRITI TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520866&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ALERT GR| ALERT
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520865&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, TCM HD GR| TCM HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520864&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, FOOD GRNETWORK GRFHD GR| FOOD GRNETWORK GRFHD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520863&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, KONTRA TV GR| KONTRA TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520862&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EXTRA TV GR| EXTRA TV
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520861&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, BARAZA TV GREEK HIts&play_token=LLNBnsvgiw HD GR| BARAZA TV GREEK HIts&play_token=LLNBnsvgiw HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520860&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, MEGA TV HD GR| MEGA TV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520859&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ANIMAL PLANET HD GR| ANIMAL PLANET HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520858&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, XPLORE CHANNEL HD GR| XPLORE CHANNEL HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520857&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NATIONAL GEOGRAPHIC WILD FHD GR| NATIONAL GEOGRAPHIC WILD FHD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520856&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NAT GEO WILD HD GR| NAT GEO WILD HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520855&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NAT GEO HD GR| NAT GEO HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520854&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, E! HD GR| E! HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520853&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, VIASAT NATURE GR| VIASAT NATURE
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520852&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, VIASAT HISTORY GR| VIASAT HISTORY
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520851&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, VIASAT GRHISTORY GR| VIASAT GRHISTORY
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520850&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, OTE HISTORY HD GR| OTE HISTORY HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520849&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, TLC GR| TLC
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520848&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NAUTICAL CHANNEL GR| NAUTICAL CHANNEL
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520847&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA CINEMA 1 4K GR| NOVA CINEMA 1 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520846&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA CINEMA 2 4K GR| NOVA CINEMA 2 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520845&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA CINEMA 3 4K GR| NOVA CINEMA 3 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520844&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA CINEMA 4 4K GR| NOVA CINEMA 4 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520843&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA PREMIERE 1 HD GR| NOVA PREMIERE 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520842&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA PREMIERE 2 HD GR| NOVA PREMIERE 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520841&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA PREMIERE 3 HD GR| NOVA PREMIERE 3 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520840&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, GREEK CINEMA 1 HD GR| GREEK CINEMA 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520839&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE CINEMA 1 HD GR| COSMOTE CINEMA 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520838&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE CINEMA 2 HD GR| COSMOTE CINEMA 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520837&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE CINEMA 3 HD GR| COSMOTE CINEMA 3 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520836&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOSTE CINEMA 4 HD GR| COSMOSTE CINEMA 4 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520835&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SERIES GR| COSMOTE SERIES
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520834&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT PRIME 4K GR| NOVA SPORT PRIME 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520833&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT NEWS HD GR| NOVA SPORT NEWS HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520832&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORts&play_token=LLNBnsvgiw PRIME GR| NOVA SPORts&play_token=LLNBnsvgiw PRIME
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520831&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT START HD GR| NOVA SPORT START HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520830&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT START GR| NOVA SPORT START
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520829&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT 1 HD GR| NOVA SPORT 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520828&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORts&play_token=LLNBnsvgiw 1 GR| NOVA SPORts&play_token=LLNBnsvgiw 1
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520827&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT 2 HD GR| NOVA SPORT 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520826&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORts&play_token=LLNBnsvgiw 2 GR| NOVA SPORts&play_token=LLNBnsvgiw 2
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520825&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT 3 HD GR| NOVA SPORT 3 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520824&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT 4 HD GR| NOVA SPORT 4 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520823&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA SPORT 5 HD GR| NOVA SPORT 5 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520822&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 1 4K GR| COSMOTE SPORT 1 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520821&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 1 HD GR| COSMOTE SPORT 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520820&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 2 4K GR| COSMOTE SPORT 2 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520819&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 2 HD GR| COSMOTE SPORT 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520818&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 3 4K GR| COSMOTE SPORT 3 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520817&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 3 HD GR| COSMOTE SPORT 3 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520816&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 4 4K GR| COSMOTE SPORT 4 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520815&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 4 HD GR| COSMOTE SPORT 4 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520814&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 5 4K GR| COSMOTE SPORT 5 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520813&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 5 HD GR| COSMOTE SPORT 5 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520812&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 6 4K GR| COSMOTE SPORT 6 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520811&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 6 HD GR| COSMOTE SPORT 6 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520810&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 7 4K GR| COSMOTE SPORT 7 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520809&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 7 HD GR| COSMOTE SPORT 7 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520808&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 8 4K GR| COSMOTE SPORT 8 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520807&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 8 HD GR| COSMOTE SPORT 8 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520806&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, COSMOTE SPORT 9 HD GR| COSMOTE SPORT 9 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520805&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CABLENET SPORT 1 HD GR| CABLENET SPORT 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520804&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CABLENET SPORT 2 HD GR| CABLENET SPORT 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520803&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ERT SPORts&play_token=LLNBnsvgiw 4K GR| ERT SPORts&play_token=LLNBnsvgiw 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520802&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, ERA SPORT GR| ERA SPORT
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520801&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EDGE SPORts&play_token=LLNBnsvgiw 4K GR| EDGE SPORts&play_token=LLNBnsvgiw 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520800&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, GINX ESPORts&play_token=LLNBnsvgiwTV HD GR| GINX ESPORts&play_token=LLNBnsvgiwTV HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520799&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, PRIMETEL SPORts&play_token=LLNBnsvgiw 1 HD GR| PRIMETEL SPORts&play_token=LLNBnsvgiw 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520798&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, PRIMETEL SPORts&play_token=LLNBnsvgiw 2 HD GR| PRIMETEL SPORts&play_token=LLNBnsvgiw 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520797&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, PRIMETEL SPORts&play_token=LLNBnsvgiw 3 HD GR| PRIMETEL SPORts&play_token=LLNBnsvgiw 3 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520796&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EUROSPORT 1 4K GR| EUROSPORT 1 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520795&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EUROSPORT 1 HD GR| EUROSPORT 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520794&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EUROSPORT 2 4K GR| EUROSPORT 2 4K
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520793&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, EUROSPORT 2 HD GR| EUROSPORT 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520792&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, NOVA LIFE GR| NOVA LIFE
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520791&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CYTAVISION SPORts&play_token=LLNBnsvgiw 1 HD GR| CYTAVISION SPORts&play_token=LLNBnsvgiw 1 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520790&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CYTAVISION SPORts&play_token=LLNBnsvgiw 2 HD GR| CYTAVISION SPORts&play_token=LLNBnsvgiw 2 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520789&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CYTAVISION SPORts&play_token=LLNBnsvgiw 3 HD GR| CYTAVISION SPORts&play_token=LLNBnsvgiw 3 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520788&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CYTAVISION SPORts&play_token=LLNBnsvgiw 4 HD GR| CYTAVISION SPORts&play_token=LLNBnsvgiw 4 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520787&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CYTAVISION SPORts&play_token=LLNBnsvgiw 5 HD GR| CYTAVISION SPORts&play_token=LLNBnsvgiw 5 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520786&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CYTAVISION SPORts&play_token=LLNBnsvgiw 6 HD GR| CYTAVISION SPORts&play_token=LLNBnsvgiw 6 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520785&extension=ts&play_token=LLNBnsvgiw
+#EXTINF:-1, CYTAVISION SPORts&play_token=LLNBnsvgiw 7 HD GR| CYTAVISION SPORts&play_token=LLNBnsvgiw 7 HD
+http://4kforyou.pro/play/live.php?mac=00:1A:79:A3:92:0D&stream=520784&extension=ts&play_token=LLNBnsvgiw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1 tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+#EXTINF:-1  tvg-logo="https://github.com/agoveos/dokimi/blob/main/logo/total%20logo360.png?raw=true" ,Empty
+http://
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
